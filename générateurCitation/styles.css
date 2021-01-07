@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: blue;
+}
+
+.container{
+     text-align: center;
+     margin: 25px 45px;
+     color:white;
+}
+
+h1{
+    margin-bottom:25px ;
+}
+
+.phrase{
+    margin-bottom:25px;
+}
+
+.auteur{
+    margin-bottom:25px;
+}
